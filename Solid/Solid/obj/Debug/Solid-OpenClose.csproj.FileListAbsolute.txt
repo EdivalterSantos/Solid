@@ -1,0 +1,7 @@
+F:\Solid\Solid\Solid\obj\Debug\Solid-OpenClose.csprojAssemblyReference.cache
+F:\Solid\Solid\Solid\obj\Debug\Solid-OpenClose.csproj.CoreCompileInputs.cache
+F:\Solid\Solid\Solid\bin\Debug\Solid.exe.config
+F:\Solid\Solid\Solid\bin\Debug\Solid.exe
+F:\Solid\Solid\Solid\bin\Debug\Solid.pdb
+F:\Solid\Solid\Solid\obj\Debug\Solid.exe
+F:\Solid\Solid\Solid\obj\Debug\Solid.pdb
